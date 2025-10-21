@@ -2,7 +2,7 @@
 
 A stunning parallax scrolling website featuring cinematic scroll effects, dynamic image transitions, and smooth animations. Each section reveals itself through a dramatic grow-and-fade effect as you scroll.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Ethereal+Parallax+Website)
+![Project Preview](https://dividedbyzero8060.github.io/parallax-scrolling-ll/)
 
 ## ✨ Features
 
